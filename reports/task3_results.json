@@ -1,0 +1,30 @@
+{
+    "province_risk": {
+        "test": "Chi-Square",
+        "p_value": 5.925510718204678e-19,
+        "decision": "Reject H0"
+    },
+    "zipcode_risk": {
+        "test": "Chi-Square",
+        "zip_codes_tested": [
+            2000,
+            122
+        ],
+        "p_value": 0.05788217295685014,
+        "decision": "Fail to Reject H0"
+    },
+    "zipcode_margin": {
+        "test": "t-test",
+        "zip_codes_tested": [
+            2000,
+            122
+        ],
+        "p_value": 0.24446241842452004,
+        "decision": "Fail to Reject H0"
+    },
+    "gender_risk": {
+        "test": "Chi-Square",
+        "p_value": 0.9514644755420456,
+        "decision": "Fail to Reject H0"
+    }
+}

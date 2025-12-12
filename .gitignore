@@ -3,7 +3,10 @@
 venv/
 
 # Data folders
-data/
+data/**
+!data/**/*.dvc
+!data/.gitignore
+
 datasets/
 
 # Jupyter notebooks checkpoints
