@@ -1,4 +1,4 @@
-📊 Week 04 – Predictive Modeling & Risk-Based Pricing
+Predictive Modeling & Risk-Based Pricing
 
 **Insurance Risk Analytics Project**
 
@@ -6,7 +6,7 @@
 
 ## 🧠 Overview
 
-In **Week 04**, the focus is on building **predictive machine learning models** that form the foundation of a **dynamic, risk-based insurance pricing system**.
+Here the focus is on building **predictive machine learning models** that form the foundation of a **dynamic, risk-based insurance pricing system**.
 
 Using historical policy and claims data, we model:
 
