@@ -1,6 +1,6 @@
 Predictive Modeling & Risk-Based Pricing
 
-**Insurance Risk Analytics Project**
+**Insurance Risk Analytics Project for AlphaCare Insurance Solutions**
 
 ---
 
